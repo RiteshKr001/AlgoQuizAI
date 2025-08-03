@@ -1,6 +1,7 @@
 # AI Coding Challenge Generator
 ## A web app that generates programming multiple-choice questions using an AI backend (Groq API & Llama 3 model). Built with a FastAPI backend and a React frontend.
-
+<img width="1915" height="438" alt="Screenshot 2025-08-03 211200" src="https://github.com/user-attachments/assets/f8b998e2-a986-4525-b346-daa12ba572a1" />
+<img width="1917" height="563" alt="Screenshot 2025-08-03 211224" src="https://github.com/user-attachments/assets/c92e06db-0356-4813-a23a-b157a74588df" />
 Features
 Generates coding questions at various difficulty levels using a generative AI model.
 
