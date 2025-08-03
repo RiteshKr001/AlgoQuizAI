@@ -1,0 +1,48 @@
+.cntnr{
+  display: block;
+  align-items: center;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.h2-app{
+  text-align: center;
+}
+
+.que-cntnr{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin: 0 auto;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.optn-cntnr{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin: 0 auto;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 4px;
+}
+
+.gnrt-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin: 0 auto;
+  border: 2px solid rgb(16, 16, 120);
+  background-color: rgb(16, 16, 120);
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
